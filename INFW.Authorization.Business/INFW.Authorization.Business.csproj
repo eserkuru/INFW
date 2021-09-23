@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Platforms>AnyCPU;x64</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\INFW.Authorization.DataAccess\INFW.Authorization.DataAccess.csproj" />
+    <ProjectReference Include="..\INFW.Authorization.Entities\INFW.Authorization.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

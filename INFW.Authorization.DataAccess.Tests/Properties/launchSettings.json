@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "INFW.Authorization.DataAccess.Tests": {
+      "commandName": "Project"
+    }
+  }
+}
